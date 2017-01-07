@@ -5,4 +5,4 @@ Creates a set of dynamically changeable Stairs in Maya 2017, uses Python and PyQ
 
 Find the video demo of the tool here:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/A4uxhlF1ojU" frameborder="0" allowfullscreen></iframe>
+https://www.youtube.com/embed/A4uxhlF1ojU
